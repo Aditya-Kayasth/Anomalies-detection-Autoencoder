@@ -2,7 +2,7 @@
 
 This repository contains a Deep Learning project that implements a semi-supervised **Autoencoder** to detect life-threatening cardiac anomalies in real-time ECG time-series data. By learning the mathematical distribution of a healthy heartbeat, the model can automatically flag dangerous arrhythmias based on reconstruction failure, serving as an automated triage system.
 
-[Dataset on Kaggle (ECG5000)](https://www.kaggle.com/datasets/devavratkalyanpur/ecg5000) | [Video Presentation](#)
+[Dataset on Kaggle (ECG5000)](https://www.kaggle.com/datasets/devavratkalyanpur/ecg5000)
 
 ## The Idea: Why Semi-Supervised Learning?
 
